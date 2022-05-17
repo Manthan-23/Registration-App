@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626018107845",
+    "firebase_url": "https://registerapp-e6bf1-default-rtdb.firebaseio.com",
+    "project_id": "registerapp-e6bf1",
+    "storage_bucket": "registerapp-e6bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626018107845:android:25e69d351dfb7611afcbac",
+        "android_client_info": {
+          "package_name": "com.example.registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626018107845-j0aj2qd4gftp0knf48l0dpecmdojhlcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOsIpXchqcYecWgj1dglfhrJ-91Yo7FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626018107845-j0aj2qd4gftp0knf48l0dpecmdojhlcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
